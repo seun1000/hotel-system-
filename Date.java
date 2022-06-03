@@ -4,8 +4,6 @@
  * Date: 28/09/2020
  * @author Seun opebiyi
  * @version 1.0
- * NOTES:This Date class contains no error handling to ensure d/m/y in correct range.
- *       Error handling will be added when Exception Handling is revised.
 **/
 package ie.lyit.hotel;
 
